@@ -1,7 +1,7 @@
 # Kasp_update
 synology package designed to automatically download AV updates and make them available for local network clients
 
-General situation is following: My organization works in developing countries where network connectivity is either unreliable or expensive:
+General situation is following: My organization (humanitarian NGO) works in developing countries where network connectivity is either unreliable or expensive:
 Current standard across sites is Synology station as file sharing server and Kaspersky Endpoint security.
 
 Aim is to adapt Kaspersky Update utility for Linux to run at Synology station.
